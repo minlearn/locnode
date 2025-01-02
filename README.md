@@ -1,1 +1,1 @@
-# moved to [discuss](https://github.com/minlearn/apps/discuss)
+# moved to [discuss](https://github.com/minlearn/apps/_build/discuss)
